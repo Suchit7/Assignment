@@ -1,0 +1,52 @@
+.navbar img{
+    width: 20%;
+
+}
+
+.about{
+    margin: 2%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about>img{
+    min-width: 30%;
+    width: 30%;
+    margin-left: 4%;
+}
+.about-content{
+    margin-top: 5%;
+    width: 50%;
+}
+.about-parapraph{
+    font-size: 1.8rem;
+}
+.about>h5{
+    font-weight: 800;
+}
+.offer{
+    background-color: rgb(32, 40, 44);
+    color: white;
+    padding-top: 5%;
+}
+.offer-box{
+    /* width: 12%; */
+    height: auto;
+    /* background-color: red; */ 
+}
+.offer-box>img{
+    height: 45%;
+}
+
+.program{
+    padding: 8%;
+}
+/* .program-content{
+    background-color: red;
+    padding: 5%;
+} */
+.program-container{
+}
+
+.footer{
+    background-color: rgb(52, 58, 64);
+}
+
